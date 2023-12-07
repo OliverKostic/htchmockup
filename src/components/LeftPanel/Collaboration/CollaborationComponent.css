@@ -1,0 +1,33 @@
+.card-component {
+  margin-bottom: 5px;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  font-size: 1.5rem;
+  margin-right: 8px;
+}
+
+.title {
+  display: inline;
+}
+
+column-container {
+  display: flex;
+}
+
+.link-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.link-column a {
+  text-decoration: none;
+  color: blue;
+  margin-bottom: 5px;
+}

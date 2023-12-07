@@ -1,0 +1,32 @@
+/* PlantResponsibleComponent.css */
+.card-component {
+  margin-bottom: 5px; /* Margin between components */
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  font-size: 1.5rem;
+  margin-right: 8px;
+}
+
+.title {
+  display: inline;
+}
+
+.button-container {
+  display: flex;
+}
+
+.green-button {
+  background-color: green !important;
+  margin-right: 5px;
+}
+
+.blue-button {
+  background-color: blue;
+  margin-right: 5px;
+}

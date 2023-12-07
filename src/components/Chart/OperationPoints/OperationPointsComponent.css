@@ -1,0 +1,19 @@
+.operation-points {
+  margin-top: 20px;
+  background-color: lightgray;
+  position: relative;
+}
+
+.drawer-container {
+  position: absolute;
+  top: calc(100% + 10px);
+  left: 0;
+  width: 100%;
+  background-color: white;
+  border: 1px solid #ccc;
+  display: none;
+}
+
+.drawer-container.open {
+  display: block;
+}

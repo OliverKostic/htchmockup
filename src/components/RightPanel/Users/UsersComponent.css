@@ -1,0 +1,18 @@
+.card-component {
+  margin-bottom: 5px;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+  background-color: lightgray;
+}
+
+.icon {
+  font-size: 1.5rem;
+  margin-right: 8px;
+}
+
+.title {
+  display: inline;
+}
